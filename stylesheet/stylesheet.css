@@ -8,3 +8,16 @@ color: red;
 #pink-id{
     background-color: pink;
 }
+
+span {
+    padding: 0px, 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid grey;
+  }
+
+  .box {
+    border-width: 10px;
+    margin: 5px;
+    border-style: ridge;
+    border-color: lightgreen;
+  }
